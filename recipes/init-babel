@@ -1,0 +1,4 @@
+(init-babel
+ :repo "netpyoung/init-babel"
+ :fetcher github
+ :files ("init-babel.el"))
